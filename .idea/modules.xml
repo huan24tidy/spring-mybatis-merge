@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\crm-project\crm47\crm47_系统操作日志收集.iml" filepath="C:\crm-project\crm47\crm47_系统操作日志收集.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mybatis-merge.iml" filepath="$PROJECT_DIR$/spring-mybatis-merge.iml" />
+    </modules>
+  </component>
+</project>
